@@ -8,7 +8,7 @@ create table todos (
 );
 
 
-insert into todos (description, priority, is_done)
+insert into todos  (description, priority, is_done)
 values ('prae mune', 3, 0);
 
 
